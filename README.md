@@ -1,4 +1,5 @@
-# Cyber Resilience Act Compliance Resources
+# Cyber Resilience Act Compliance Self-Assessment Resources
+![Zealience Resources Hero image](https://github.com/zealience/Cyber-Resilience-Act/blob/main/misc/Zealie_on_rocket.png?raw=true)
 
 ## Welcome to the Zealience CRA GitHub repository
 
